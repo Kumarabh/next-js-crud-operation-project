@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "course1",
+        "description": "Learn Modern course 1, including its features by building realtime projects",
+        "link": "https://www.google.com",
+        "level": "Beginner"
+    },
+    {
+        "id": 2,
+        "title": "course2",
+        "description": "Learn Modern course 2, including its features by building realtime projects",
+        "link": "https://www.google.com",
+        "level": "Beginner"
+    },{
+        "id": 3,
+        "title": "course3",
+        "description": "Learn Modern course 3, including its features by building realtime projects",
+        "link": "https://www.google.com",
+        "level": "Beginner"
+    },{
+        "id": 4,
+        "title": "course4",
+        "description": "Learn Modern course 4, including its features by building realtime projects",
+        "link": "https://www.google.com",
+        "level": "Beginner"
+    },{
+        "id": 5,
+        "title": "course5",
+        "description": "Learn Modern course 5, including its features by building realtime projects",
+        "link": "https://www.google.com",
+        "level": "Beginner"
+    }
+]
